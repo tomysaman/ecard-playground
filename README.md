@@ -2,7 +2,7 @@
 
 My Playground - Ecard (vibe coded)
 
-![Screenshot](assets/screenshot/runewords.png)
+![Screenshot](assets/screenshot/birthday.png)
 
 ## Why
 
