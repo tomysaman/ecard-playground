@@ -1,4 +1,4 @@
-# d2-compendium
+# Ecard Playground
 
 My Playground - Ecard (vibe coded)
 
